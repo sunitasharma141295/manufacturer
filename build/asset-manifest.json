@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1ea1ae7e.chunk.css",
+    "main.js": "./static/js/main.ee744e2f.chunk.js",
+    "main.js.map": "./static/js/main.ee744e2f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.05f2c45a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.05f2c45a.js.map",
+    "static/css/2.cc7564cf.chunk.css": "./static/css/2.cc7564cf.chunk.css",
+    "static/js/2.b94da0ba.chunk.js": "./static/js/2.b94da0ba.chunk.js",
+    "static/js/2.b94da0ba.chunk.js.map": "./static/js/2.b94da0ba.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.cc7564cf.chunk.css.map": "./static/css/2.cc7564cf.chunk.css.map",
+    "static/css/main.1ea1ae7e.chunk.css.map": "./static/css/main.1ea1ae7e.chunk.css.map",
+    "static/js/2.b94da0ba.chunk.js.LICENSE.txt": "./static/js/2.b94da0ba.chunk.js.LICENSE.txt",
+    "static/media/Avtar01.0ae4baba.jpg": "./static/media/Avtar01.0ae4baba.jpg",
+    "static/media/dp-1.063d2f2d.jpg": "./static/media/dp-1.063d2f2d.jpg",
+    "static/media/iphone1.8309523c.jpg": "./static/media/iphone1.8309523c.jpg",
+    "static/media/logo.ed4248a4.png": "./static/media/logo.ed4248a4.png",
+    "static/media/s3.8d942ed2.jpg": "./static/media/s3.8d942ed2.jpg",
+    "static/media/s4.a71870a3.jpg": "./static/media/s4.a71870a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05f2c45a.js",
+    "static/css/2.cc7564cf.chunk.css",
+    "static/js/2.b94da0ba.chunk.js",
+    "static/css/main.1ea1ae7e.chunk.css",
+    "static/js/main.ee744e2f.chunk.js"
+  ]
+}
